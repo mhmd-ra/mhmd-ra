@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Mohammad 👋
 
-<!--
-**mhmd-ra/mhmd-ra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student. I build small tools I actually want to use, and I'm working toward a graduation project that brings AI and security together.
 
-Here are some ideas to get you started:
+**Currently working on**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [**Ambient Toolbar**](https://github.com/mhmd-ra/ambient-toolbar) — a Firefox add-on that tints your tab bar and toolbar to match the YouTube video you're watching. [Get it on Firefox](https://addons.mozilla.org/firefox/addon/ambient-toolbar-for-youtube/) · [Website](https://mhmd-ra.github.io/ambient-toolbar/)
+
+**Interested in**
+
+Application security, browser extensions, Python tooling, and where AI helps (or breaks) security.
+
+**Tools I use**
+
+Python · JavaScript · Java · Bash · Git · Linux
+
+**Connect**
+
+[LinkedIn](https://www.linkedin.com/in/mhmdrabiei)
