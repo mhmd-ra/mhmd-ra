@@ -1,6 +1,6 @@
 ### Hi, I'm Mohammad 👋
 
-Cybersecurity student. I build small tools I actually want to use, and I'm working toward a graduation project that brings AI and security together.
+I build small tools I actually want to use.
 
 **Currently working on**
 
